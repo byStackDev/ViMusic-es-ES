@@ -1,0 +1,20 @@
+<b>Características:</b>
+
+* Busca y reproduce cualquier canción o video de YouTube Music
+* Reproducción de fondo con notificación
+* Buscar canciones, álbumes, artistas, videos y listas de reproducción
+* Marcar artistas y álbumes
+* Importar listas de reproducción
+* Sistema de caché automático para reproducción sin conexión y ahorro de recursos
+* Obtener y editar letras y letras sincronizadas
+* Abrir enlaces de YouTube/YouTube Music
+* Gestión de listas de reproducción locales
+* Gestión de colas
+* Favoritos y listas de reproducción integradas sin conexión
+* Tiempo de dormir
+* Saltar silencio
+* Cola persistente
+* Sonoridad/normalización de audio
+* Android automático
+* Interfaz de usuario simple y mínima
+* APK ridículamente ligero
