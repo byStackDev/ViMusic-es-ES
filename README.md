@@ -2,7 +2,7 @@
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>ViMusic</h1>
     <p>Una aplicación de Android para transmitir música desde YouTube Music</p>
-    <p>An Android application for streaming music from YouTube Music</p>
+    
     
 </div>
 
@@ -35,27 +35,6 @@
 -Android automático
 - Cola persistente
 - Abrir enlaces de YouTube/YouTube Music (`ver`, `lista de reproducción`, `canal`)
-- ...
-
-
-## Features
-- Play (almost) any song or video from YouTube Music
-- Background playback
-- Cache audio chunks for offline playback
-- Search for songs, albums, artists videos and playlists
-- Bookmark artists and albums
-- Import playlists
-- Fetch, display and edit songs lyrics or synchronized lyrics
-- Local playlist management
-- Reorder songs in playlist or queue
-- Light/Dark/Dynamic theme
-- Skip silence
-- Sleep timer
-- Audio normalization
-- Android Auto
-- Persistent queue
-- Open YouTube/YouTube Music links (`watch`, `playlist`, `channel`)
-- ...
 
 ## Instalación
 
@@ -63,8 +42,12 @@
     alt="Get it on GitHub"
     height="80">](https://github.com/byStackDev/ViMusic-es-ES/releases/tag/v0.5.4-0.1.0)
 
+[<img src="./app/src/main/drive.png"
+    alt="Get it on Google Drive"
+    height="80">](https://drive.google.com/file/d/1aJ3DNqHAJQ-hob8zDKQgWWUxF9EflU-s/view)
 
-## Acknowledgments-Expresiones de gratitud
+
+## Expresiones de gratitud | Acknowledgments
 - [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A python script that discovers hidden YouTube API clients. Just a research project.
 - [**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.
 
